@@ -1,0 +1,44 @@
+Partlist
+
+Exported from USB to Serial.brd at 12/18/2017 5:03:21 PM
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library          Position (mm)         Orientation
+
+C1       22p            C050-024X044 adafruit         (50.8 11.43)          R270
+C2       100n           C050-024X044 adafruit         (48.26 53.34)         R180
+C3       22p            C050-024X044 adafruit         (67.31 50.8)          R90
+C4       22p            C050-024X044 adafruit         (67.31 41.91)         R270
+C5       22p            C050-024X044 adafruit         (55.88 11.43)         R270
+C7       470U           E5-5         rcl              (16.51 33.02)         R180
+D1       Z3.6           DO35-3       gm-diodes        (22.86 53.34)         R180
+D2       Z3.6           DO35-3       gm-diodes        (12.7 53.34)          R0
+D3       1n4002         DO35-10      diode            (16.51 8.89)          R270
+D4       1n4002         DO35-10      diode            (19.05 8.89)          R270
+D5       1n4002         DO35-10      diode            (19.05 21.59)         R270
+D6       1n4002         DO35-10      diode            (16.51 21.59)         R270
+IC1      MEGA8-P        DIL28-3      atmel            (46.99 46.99)         R0
+IC2      MEGA328-P      DIL28-3      atmel            (46.99 26.67)         R0
+IC3      LM35CZ         TO92         lm35             (43.18 35.56)         R0
+LED1                    LED5MM       led              (68.58 7.62)          R90
+LED2                    LED5MM       led              (68.58 21.59)         R90
+MOTOR1                  W237-102     con-wago-500     (10.16 13.97)         R270
+MOTOR2                  W237-102     con-wago-500     (10.16 24.13)         R270
+Q1       16MHz          HC49/S       adafruit         (53.34 38.1)          R0
+Q2       16MHz          HC49/S       adafruit         (53.34 17.78)         R0
+Q3       TIP41C         TO220AV      transistor-power (27.94 3.81)          R180
+Q4       TIP41C         TO220AV      transistor-power (40.64 3.81)          R180
+R1       1K5            0207/7       adafruit         (22.86 50.8)          R0
+R2       10K            0207/7       adafruit         (24.13 26.67)         R90
+R3       470            0207/7       adafruit         (26.67 26.67)         R90
+R4       68             0207/7       adafruit         (22.86 45.72)         R0
+R5       68             0207/7       adafruit         (22.86 48.26)         R0
+R6       100            0207/7       adafruit         (34.29 10.16)         R90
+R7       100            0207/7       adafruit         (50.8 6.35)           R0
+R8       330            0207/7       adafruit         (62.23 15.24)         R90
+R9       330            0207/7       adafruit         (64.77 15.24)         R90
+SV1                     MA04-1       con-lstb         (63.5 34.29)          R0
+X1       PN61729-S      PN61729-S    con-berg         (10.16 41.91)         R270
